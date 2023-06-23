@@ -1,4 +1,4 @@
-# "WELCOME TO THE VOTING APP \n"
+print("WELCOME TO THE VOTING APP \n")
 import json
 
 # Define the candidates and their vote counts
