@@ -3,7 +3,6 @@
 
 # Voting App
 
-![Voting App](https://www.graphic.com.gh/images/2022/oct/27/voting.png)
 ![Voting App](https://cdn.gcn.com/media/img/cd/2021/12/13/mobilevote/route-fifty-lead-image.png?1639371866)
 
 ## Overview
