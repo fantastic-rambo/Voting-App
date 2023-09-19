@@ -36,7 +36,7 @@ The Voting App is a web-based application that allows users to create and partic
 
 ## Dependencies
 
-- The Voting App is built using web technologies and may require a specific stack (e.g., JavaScript, Node.js, databases) depending on your implementation.
+- The Voting App is built using web technologies and may require a specific stack (e.g. HTML, Python, Node.js, databases, etc) depending on your implementation.
 
 ## License
 
